@@ -1,8 +1,7 @@
 # Tripvote
 
-함께 할 때 더 좋은 여행 일정앱 트립보트
+![트립보트](https://github.com/Strong-Potato/.github/assets/71982555/19e36185-df33-48b6-a6aa-4cd986b7c9fa)
 
-패스트캠퍼스 X 야놀자 파이널 프로젝트 (2023.12.26~2024.01.26)
 
 ## Line up 👨‍💻👩‍💻
 16인 (PM 4 + UXUI 1 + FE 6 + BE 4 + 중도 하차 BE.PL 1) 
