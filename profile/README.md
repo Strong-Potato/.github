@@ -1,4 +1,6 @@
 # Tripvote
+[트립보트 강자밭.pdf](https://github.com/Strong-Potato/.github/files/14096200/default.pdf)
+
 
 ![트립보트](https://github.com/Strong-Potato/.github/assets/71982555/19e36185-df33-48b6-a6aa-4cd986b7c9fa)
 
